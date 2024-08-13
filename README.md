@@ -1,5 +1,3 @@
-Aqui está o README atualizado com a referência ao código de inspiração:
-
 ---
 
 # WhatsApp Group Exporter
@@ -97,5 +95,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License.
 
 ---
-
-This README provides clear instructions and acknowledges the original code that inspired this project.
